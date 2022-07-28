@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-ci-labs
+- admin-user: Vijaykumaryadavalli-admin
+- manager-user: Vijaykumaryadavalli
